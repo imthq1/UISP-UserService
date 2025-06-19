@@ -1,4 +1,4 @@
-package UISP.domain.DTO;
+package UISP.DTO.request;
 
 import lombok.Getter;
 import lombok.Setter;

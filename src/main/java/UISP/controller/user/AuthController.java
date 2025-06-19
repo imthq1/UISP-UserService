@@ -1,6 +1,6 @@
 package UISP.controller.user;
 
-import UISP.domain.DTO.RegiserDTO;
+import UISP.DTO.request.RegiserDTO;
 import UISP.service.KeycloakService.KeycloakUserService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
